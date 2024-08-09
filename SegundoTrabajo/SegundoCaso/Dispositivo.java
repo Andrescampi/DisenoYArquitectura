@@ -1,2 +1,5 @@
-package SegundoCaso;public interface Dispositivo {
+package SegundoCaso;
+
+interface Dispositivo {
+    void actualizar(String mensaje);
 }
