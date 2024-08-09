@@ -4,7 +4,7 @@ import java.util.ArrayList;
 import java.util.List;
 
 
-class Subject {
+class Usuario {
     private List<Dispositivo> dispositivos = new ArrayList<>();
     private String mensaje;
 
