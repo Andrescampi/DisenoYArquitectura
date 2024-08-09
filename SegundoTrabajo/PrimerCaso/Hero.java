@@ -7,7 +7,7 @@ public static void main(String[] args) {
     Prototype jugadorclone = jugador;
     System.out.println(jugadorclone.heroinfo());
     jugadorclone.setApariencia("gordo");
-    jugadorclone.setName("noodas");
+    jugadorclone.setName("Diego");
 
 System.out.println(jugadorclone.heroinfo());
 
