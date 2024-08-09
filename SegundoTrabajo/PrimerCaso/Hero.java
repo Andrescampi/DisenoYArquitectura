@@ -10,7 +10,6 @@ public static void main(String[] args) {
     jugadorclone.setName("Diego");
 
 System.out.println(jugadorclone.heroinfo());
-
 }
     
 } 
