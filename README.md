@@ -30,7 +30,7 @@ Este caso requiere la gestión de tareas de usuarios, como eliminar, editar, y c
 
 A continuación, se incluye el diagrama de clases:
 
-![image](https://github.com/user-attachments/assets/0b7cf048-bdeb-4b67-8e44-749c82286b5a)
+![image](https://github.com/Andrescampi/DisenoYArquitectura/blob/master/caso3.png)
 
 
 ## 5. Quinto Caso - Decoración de Habitaciones en un Hotel
