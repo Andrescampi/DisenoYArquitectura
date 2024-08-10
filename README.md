@@ -25,6 +25,7 @@ A continuación, se incluye el diagrama de clases:
 Este caso requiere la gestión de diferentes tipos de pedidos, como bebidas, platos fuertes y postres. El patrón de diseño seleccionado es el patrón **"Template Method"**, ya que permite definir la estructura de procesamiento de pedidos en una clase base y delegar la implementación específica de cada tipo de pedido en subclases.
 
 A continuación, se incluye el diagrama de clases:
+![image](https://github.com/Andrescampi/DisenoYArquitectura/blob/master/caso3.png)
 
 ## 4. Cuarto Caso - Sistema de Gestión de Tareas.
 
@@ -32,7 +33,7 @@ Este caso requiere la gestión de tareas de usuarios, como eliminar, editar, y c
 
 A continuación, se incluye el diagrama de clases:
 
-![image](https://github.com/Andrescampi/DisenoYArquitectura/blob/master/caso3.png)
+![image](https://github.com/Andrescampi/DisenoYArquitectura/blob/master/caso4.png)
 
 
 ## 5. Quinto Caso - Decoración de Habitaciones en un Hotel
