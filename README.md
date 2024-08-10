@@ -20,11 +20,13 @@ A continuación, se incluye el diagrama de clases:
 
 
 
-## 3. Tercer Caso
+## 3. Tercer Caso - Procesamiento de Ordenes.
 
-Descripción pendiente.
+Este caso requiere la gestión de diferentes tipos de pedidos, como bebidas, platos fuertes y postres. El patrón de diseño seleccionado es el patrón **"Template Method"**, ya que permite definir la estructura de procesamiento de pedidos en una clase base y delegar la implementación específica de cada tipo de pedido en subclases.
 
-## 4. Cuarto Caso - Sistema de Gestión de Tareas
+A continuación, se incluye el diagrama de clases:
+
+## 4. Cuarto Caso - Sistema de Gestión de Tareas.
 
 Este caso requiere la gestión de tareas de usuarios, como eliminar, editar, y crear. El patrón de diseño seleccionado es el patrón **"Command"**, ya que permite realizar múltiples acciones sobre una misma tarea.
 
