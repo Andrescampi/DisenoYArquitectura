@@ -8,7 +8,7 @@ En este caso, se nos muestra cómo clonar superhéroes ya creados. Esto se relac
 
 A continuación, se incluye el diagrama del código:
 
-![image](https://github.com/user-attachments/assets/e66d5d56-da8f-4dae-bf38-a3df97a058c8)
+![image](caso1.png)
 
 
 ## 2. Segundo Caso – Empresa de Mensajería
