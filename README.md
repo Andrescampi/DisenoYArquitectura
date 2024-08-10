@@ -39,5 +39,5 @@ En este caso, se nos pide desarrollar un sistema para gestionar la decoración d
 
 A continuación, se incluye el diagrama de clases:
 
-![image](https://github.com/user-attachments/assets/6a1a3577-b5d2-4819-a742-8cb467f76b60)
+![image](https://github.com/Andrescampi/DisenoYArquitectura/blob/master/caso5.png)
 
