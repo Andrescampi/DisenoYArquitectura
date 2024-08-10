@@ -16,7 +16,7 @@ A continuación, se incluye el diagrama del código:
 En este problema, se trata de una empresa que está desarrollando una app en la que se busca que, cuando un dispositivo vinculado a un usuario recibe una notificación, todos los dispositivos vinculados a ese usuario también reciban la notificación en tiempo real. El patrón de comportamiento que elegimos es **"Observer"**. Inicialmente, no estábamos convencidos ya que el patrón implicaba una suscripción para recibir notificaciones, pero luego lo vinculamos con el vínculo entre usuario y dispositivo.
 
 A continuación, se incluye el diagrama de clases:
-![image](https://github.com/user-attachments/assets/f92b8860-f6df-4c72-b9cd-6dd215d0df75)
+![image](https://github.com/Andrescampi/DisenoYArquitectura/blob/master/caso2.png)
 
 
 
