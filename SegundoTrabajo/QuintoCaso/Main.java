@@ -5,6 +5,7 @@ public class Main {
         Habitacion habitacion = new HabitacionBasica();
         habitacion = new AgregarDispositivos(habitacion);
         habitacion = new AgregarDecoracion(habitacion);
+        habitacion = new AgregarComida(habitacion);
         habitacion.agregar();
     }
 }
