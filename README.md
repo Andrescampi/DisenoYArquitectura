@@ -8,7 +8,7 @@ En este caso, se nos muestra cómo clonar superhéroes ya creados. Esto se relac
 
 A continuación, se incluye el diagrama del código:
 
-![image]([caso1.png](https://github.com/Andrescampi/DisenoYArquitectura/blob/master/caso1.png))
+![image](https://github.com/Andrescampi/DisenoYArquitectura/blob/master/caso1.png)
 
 
 ## 2. Segundo Caso – Empresa de Mensajería
